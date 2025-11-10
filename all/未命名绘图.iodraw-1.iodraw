@@ -64,13 +64,13 @@
         <mxCell id="r0JZ05BpdN17L3KSp9qS-15" value="ai_tool_mcp" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="470" y="585" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r0JZ05BpdN17L3KSp9qS-16" value="ai_rag_order" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="r0JZ05BpdN17L3KSp9qS-16" value="ai_rag_order" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="630" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r0JZ05BpdN17L3KSp9qS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="r0JZ05BpdN17L3KSp9qS-13" target="r0JZ05BpdN17L3KSp9qS-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r0JZ05BpdN17L3KSp9qS-18" value="ai_config" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="r0JZ05BpdN17L3KSp9qS-18" value="ai_config" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fillColor=#A680B8;" vertex="1" parent="1">
           <mxGeometry x="140" y="670" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r0JZ05BpdN17L3KSp9qS-29" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
