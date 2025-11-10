@@ -81,8 +81,8 @@
         <mxCell id="r0JZ05BpdN17L3KSp9qS-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.483;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r0JZ05BpdN17L3KSp9qS-18" target="r0JZ05BpdN17L3KSp9qS-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r0JZ05BpdN17L3KSp9qS-31" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="228" width="50" height="30" as="geometry" />
+        <mxCell id="r0JZ05BpdN17L3KSp9qS-31" value="相关配置数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
