@@ -71,10 +71,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r0JZ05BpdN17L3KSp9qS-18" value="ai_config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="600" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="670" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r0JZ05BpdN17L3KSp9qS-29" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="300" width="200" height="200" as="geometry" />
+          <mxGeometry x="300" y="300" width="480" height="340" as="geometry">
+            <mxRectangle x="300" y="300" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
