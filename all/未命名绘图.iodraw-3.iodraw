@@ -556,7 +556,7 @@
         <mxCell id="-udE0ZnSd3tw2ArIHRSs-147" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-122">
           <mxGeometry y="273" width="400" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="-udE0ZnSd3tw2ArIHRSs-148" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-147">
+        <mxCell id="-udE0ZnSd3tw2ArIHRSs-148" value="end_time" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-147">
           <mxGeometry width="133" height="41" as="geometry">
             <mxRectangle width="133" height="41" as="alternateBounds" />
           </mxGeometry>
@@ -574,7 +574,7 @@
         <mxCell id="-udE0ZnSd3tw2ArIHRSs-151" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-122">
           <mxGeometry y="314" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-udE0ZnSd3tw2ArIHRSs-152" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-151">
+        <mxCell id="-udE0ZnSd3tw2ArIHRSs-152" value="goods_id" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-151">
           <mxGeometry width="133" height="40" as="geometry">
             <mxRectangle width="133" height="40" as="alternateBounds" />
           </mxGeometry>
