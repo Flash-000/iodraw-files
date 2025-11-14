@@ -572,7 +572,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fiSevuGWpSlES9Xhmd1P-221" value="crowd_tags_details-人群标签明细" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="570" y="20" width="270" height="230" as="geometry" />
+          <mxGeometry x="557" y="500" width="270" height="230" as="geometry" />
         </mxCell>
         <mxCell id="fiSevuGWpSlES9Xhmd1P-222" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-221">
           <mxGeometry y="30" width="270" height="40" as="geometry" />
