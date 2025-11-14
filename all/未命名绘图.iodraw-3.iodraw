@@ -674,7 +674,7 @@
             <mxRectangle width="134" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-udE0ZnSd3tw2ArIHRSs-174" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-171">
+        <mxCell id="-udE0ZnSd3tw2ArIHRSs-174" value="最终价格" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-171">
           <mxGeometry x="267" width="133" height="41" as="geometry">
             <mxRectangle width="133" height="41" as="alternateBounds" />
           </mxGeometry>
@@ -692,7 +692,7 @@
             <mxRectangle width="134" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-udE0ZnSd3tw2ArIHRSs-178" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-175">
+        <mxCell id="-udE0ZnSd3tw2ArIHRSs-178" value="状态(0初始锁定，1消费完成，2用户退单)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-175">
           <mxGeometry x="267" width="133" height="40" as="geometry">
             <mxRectangle width="133" height="40" as="alternateBounds" />
           </mxGeometry>
