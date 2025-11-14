@@ -373,7 +373,7 @@
         <mxCell id="-udE0ZnSd3tw2ArIHRSs-83" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-30">
           <mxGeometry y="542" width="460" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-udE0ZnSd3tw2ArIHRSs-84" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-83">
+        <mxCell id="-udE0ZnSd3tw2ArIHRSs-84" value="status" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-83">
           <mxGeometry width="153" height="40" as="geometry">
             <mxRectangle width="153" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -391,7 +391,7 @@
         <mxCell id="-udE0ZnSd3tw2ArIHRSs-87" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-30">
           <mxGeometry y="582" width="460" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="-udE0ZnSd3tw2ArIHRSs-88" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-87">
+        <mxCell id="-udE0ZnSd3tw2ArIHRSs-88" value="notify_url" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-87">
           <mxGeometry width="153" height="39" as="geometry">
             <mxRectangle width="153" height="39" as="alternateBounds" />
           </mxGeometry>
