@@ -38,7 +38,7 @@
             <mxRectangle width="126" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fiSevuGWpSlES9Xhmd1P-94" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-91">
+        <mxCell id="fiSevuGWpSlES9Xhmd1P-94" value="活动ID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-91">
           <mxGeometry x="253" width="127" height="40" as="geometry">
             <mxRectangle width="127" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -56,7 +56,7 @@
             <mxRectangle width="126" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fiSevuGWpSlES9Xhmd1P-98" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-95">
+        <mxCell id="fiSevuGWpSlES9Xhmd1P-98" value="折扣ID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-95">
           <mxGeometry x="253" width="127" height="41" as="geometry">
             <mxRectangle width="127" height="41" as="alternateBounds" />
           </mxGeometry>
