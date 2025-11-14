@@ -218,7 +218,7 @@
             <mxRectangle width="126" height="43" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fiSevuGWpSlES9Xhmd1P-134" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-131">
+        <mxCell id="fiSevuGWpSlES9Xhmd1P-134" value="人群标签规则范围(可见限制，参与限制)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-131">
           <mxGeometry x="253" width="127" height="43" as="geometry">
             <mxRectangle width="127" height="43" as="alternateBounds" />
           </mxGeometry>
