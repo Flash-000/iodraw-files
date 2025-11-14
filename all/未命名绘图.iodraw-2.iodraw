@@ -164,7 +164,7 @@
             <mxRectangle width="126" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fiSevuGWpSlES9Xhmd1P-122" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-119">
+        <mxCell id="fiSevuGWpSlES9Xhmd1P-122" value="活动开始时间" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-119">
           <mxGeometry x="253" width="127" height="41" as="geometry">
             <mxRectangle width="127" height="41" as="alternateBounds" />
           </mxGeometry>
@@ -182,7 +182,7 @@
             <mxRectangle width="126" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fiSevuGWpSlES9Xhmd1P-126" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-123">
+        <mxCell id="fiSevuGWpSlES9Xhmd1P-126" value="活动结束时间" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-123">
           <mxGeometry x="253" width="127" height="41" as="geometry">
             <mxRectangle width="127" height="41" as="alternateBounds" />
           </mxGeometry>
