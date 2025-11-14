@@ -566,7 +566,7 @@
             <mxRectangle width="134" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-udE0ZnSd3tw2ArIHRSs-150" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-147">
+        <mxCell id="-udE0ZnSd3tw2ArIHRSs-150" value="拼团结束时间" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-147">
           <mxGeometry x="267" width="133" height="41" as="geometry">
             <mxRectangle width="133" height="41" as="alternateBounds" />
           </mxGeometry>
@@ -584,7 +584,7 @@
             <mxRectangle width="134" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-udE0ZnSd3tw2ArIHRSs-154" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-151">
+        <mxCell id="-udE0ZnSd3tw2ArIHRSs-154" value="商品ID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-151">
           <mxGeometry x="267" width="133" height="40" as="geometry">
             <mxRectangle width="133" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -602,7 +602,7 @@
             <mxRectangle width="134" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-udE0ZnSd3tw2ArIHRSs-158" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-155">
+        <mxCell id="-udE0ZnSd3tw2ArIHRSs-158" value="商品来源" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-155">
           <mxGeometry x="267" width="133" height="41" as="geometry">
             <mxRectangle width="133" height="41" as="alternateBounds" />
           </mxGeometry>
