@@ -365,7 +365,7 @@
             <mxRectangle width="154" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-udE0ZnSd3tw2ArIHRSs-82" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-79">
+        <mxCell id="-udE0ZnSd3tw2ArIHRSs-82" value="完成数量" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-79">
           <mxGeometry x="307" width="153" height="39" as="geometry">
             <mxRectangle width="153" height="39" as="alternateBounds" />
           </mxGeometry>
@@ -383,7 +383,7 @@
             <mxRectangle width="154" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-udE0ZnSd3tw2ArIHRSs-86" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-83">
+        <mxCell id="-udE0ZnSd3tw2ArIHRSs-86" value="状态:拼单中，已完成，失败" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-83">
           <mxGeometry x="307" width="153" height="40" as="geometry">
             <mxRectangle width="153" height="40" as="alternateBounds" />
           </mxGeometry>
