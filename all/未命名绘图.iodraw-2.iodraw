@@ -74,7 +74,7 @@
             <mxRectangle width="126" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fiSevuGWpSlES9Xhmd1P-102" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-99">
+        <mxCell id="fiSevuGWpSlES9Xhmd1P-102" value="成团方式(0自动成团，1达成目标成团)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-99">
           <mxGeometry x="253" width="127" height="41" as="geometry">
             <mxRectangle width="127" height="41" as="alternateBounds" />
           </mxGeometry>
