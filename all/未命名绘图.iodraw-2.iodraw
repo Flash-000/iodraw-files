@@ -572,12 +572,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fiSevuGWpSlES9Xhmd1P-221" value="crowd_tags_details-人群标签明细" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="557" y="310" width="270" height="230" as="geometry" />
+          <mxGeometry x="580" y="310" width="270" height="230" as="geometry" />
         </mxCell>
         <mxCell id="fiSevuGWpSlES9Xhmd1P-222" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-221">
           <mxGeometry y="30" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fiSevuGWpSlES9Xhmd1P-223" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-222">
+        <mxCell id="fiSevuGWpSlES9Xhmd1P-223" value="id" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-222">
           <mxGeometry width="90" height="40" as="geometry">
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -595,7 +595,7 @@
         <mxCell id="fiSevuGWpSlES9Xhmd1P-226" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-221">
           <mxGeometry y="70" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fiSevuGWpSlES9Xhmd1P-227" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-226">
+        <mxCell id="fiSevuGWpSlES9Xhmd1P-227" value="tag_id" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="fiSevuGWpSlES9Xhmd1P-226">
           <mxGeometry width="90" height="40" as="geometry">
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
