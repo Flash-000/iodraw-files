@@ -893,7 +893,7 @@
             <mxRectangle width="155" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-udE0ZnSd3tw2ArIHRSs-223" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-220">
+        <mxCell id="-udE0ZnSd3tw2ArIHRSs-223" value="回调状态(初始，完成，重试，失败)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-220">
           <mxGeometry x="309" width="154" height="41" as="geometry">
             <mxRectangle width="154" height="41" as="alternateBounds" />
           </mxGeometry>
