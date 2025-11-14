@@ -857,7 +857,7 @@
             <mxRectangle width="155" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-udE0ZnSd3tw2ArIHRSs-215" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-212">
+        <mxCell id="-udE0ZnSd3tw2ArIHRSs-215" value="回调接口" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-212">
           <mxGeometry x="309" width="154" height="41" as="geometry">
             <mxRectangle width="154" height="41" as="alternateBounds" />
           </mxGeometry>
@@ -875,7 +875,7 @@
             <mxRectangle width="155" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-udE0ZnSd3tw2ArIHRSs-219" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-216">
+        <mxCell id="-udE0ZnSd3tw2ArIHRSs-219" value="回调次数" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-216">
           <mxGeometry x="309" width="154" height="42" as="geometry">
             <mxRectangle width="154" height="42" as="alternateBounds" />
           </mxGeometry>
