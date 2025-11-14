@@ -20,7 +20,7 @@
             <mxRectangle width="150" height="38" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-udE0ZnSd3tw2ArIHRSs-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-2">
+        <mxCell id="-udE0ZnSd3tw2ArIHRSs-5" value="自增ID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-2">
           <mxGeometry x="300" width="150" height="38" as="geometry">
             <mxRectangle width="150" height="38" as="alternateBounds" />
           </mxGeometry>
@@ -38,7 +38,7 @@
             <mxRectangle width="150" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-udE0ZnSd3tw2ArIHRSs-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-6">
+        <mxCell id="-udE0ZnSd3tw2ArIHRSs-9" value="用户ID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="-udE0ZnSd3tw2ArIHRSs-6">
           <mxGeometry x="300" width="150" height="39" as="geometry">
             <mxRectangle width="150" height="39" as="alternateBounds" />
           </mxGeometry>
