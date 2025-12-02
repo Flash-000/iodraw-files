@@ -5,12 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="c8auXv3bSqIgUpHjiYWl-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;图像超分辨方法&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="190" width="116" height="50" as="geometry" />
+          <mxGeometry x="356" y="160" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c8auXv3bSqIgUpHjiYWl-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;传统方法&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="270" width="116" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="c8auXv3bSqIgUpHjiYWl-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;图像超分辨方法&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c8auXv3bSqIgUpHjiYWl-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;深度学习方法&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="270" width="116" height="50" as="geometry" />
         </mxCell>
       </root>
