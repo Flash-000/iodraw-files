@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="c8auXv3bSqIgUpHjiYWl-1" value="图像超分辨方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c8auXv3bSqIgUpHjiYWl-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;图像超分辨方法&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="190" width="116" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="c8auXv3bSqIgUpHjiYWl-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;图像超分辨方法&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="116" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
