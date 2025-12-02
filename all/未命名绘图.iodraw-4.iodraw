@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c8auXv3bSqIgUpHjiYWl-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;基于CNN的图像超分辨&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="264" y="375" width="150" height="60" as="geometry" />
+          <mxGeometry x="280" y="375" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c8auXv3bSqIgUpHjiYWl-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;基于GAN的图像超分辨&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="375" width="160" height="60" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="900" y="380" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c8auXv3bSqIgUpHjiYWl-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;基于Transformer的图像超分辨&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="380" width="146" height="60" as="geometry" />
+          <mxGeometry x="650" y="375" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c8auXv3bSqIgUpHjiYWl-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;基于扩散模型的图像超分辨&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="510" width="116" height="50" as="geometry" />
