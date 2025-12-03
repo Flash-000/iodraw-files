@@ -35,7 +35,7 @@
           <mxGeometry x="-230" y="510" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I_zkYScXU9xlo14IzPPl-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;基于Mamba的图像超分辨&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="-500" y="585" width="160" height="60" as="geometry" />
+          <mxGeometry x="-230" y="600" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
