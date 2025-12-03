@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="c8auXv3bSqIgUpHjiYWl-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;图像超分辨方法&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-670" y="270" width="112" height="50" as="geometry" />
+          <mxGeometry x="-760" y="370" width="112" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c8auXv3bSqIgUpHjiYWl-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;传统方法&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="120" width="116" height="50" as="geometry" />
+          <mxGeometry x="-430" y="180" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c8auXv3bSqIgUpHjiYWl-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;深度学习方法&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="310" width="106" height="50" as="geometry" />
+          <mxGeometry x="-430" y="460" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c8auXv3bSqIgUpHjiYWl-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;基于Mamba的图像超分辨&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-180" y="550" width="170" height="60" as="geometry" />
